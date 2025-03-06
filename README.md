@@ -27,7 +27,7 @@ This project performs the following analysis of COVID-19 data in India:
 ## How to Run
 
 1.  Download the `covid_19_data.csv` file from Kaggle and place it in the project directory.
-2.  Run the `coronavirus_analysis_extended.py` (or `coronavirus_analysis_extended.ipynb`) script.
+2.  Run the `coronavirus_analysis_extended.ipynb` script.
 
 ## Visualizations
 
